@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoganBain&theme=cobalt)
+![](https://raw.githubusercontent.com/LoganBain/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/LoganBain/github-stats/master/generated/languages.svg#gh-dark-mode-only)
